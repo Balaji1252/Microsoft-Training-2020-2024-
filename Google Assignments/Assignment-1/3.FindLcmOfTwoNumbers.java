@@ -1,6 +1,6 @@
 import java.util.*;
 class HelloWorld {
-    public static void main(String[] args) {
+    public  static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
        int gcd=0,lcm=0;
        int x=sc.nextInt();
