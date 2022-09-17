@@ -7,7 +7,6 @@ class HelloWorld {
        b=a+b;
        a=b-a;
        b=b-a;
-       
        System.out.print(a+" "+b);
     }
 }
