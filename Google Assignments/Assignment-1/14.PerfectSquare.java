@@ -6,10 +6,10 @@ class Main {
     double sq=Math.sqrt(n);
     if(sq==Math.floor(sq))
     {
-      System.out.print(n+" is a perfect Square");
+      System.out.print(" is a perfect Square");
     }
     else{
-      System.out.print(n+" is not a perfect Square");
+      System.out.print(" is not a perfect Square");
     }
   }
 }
